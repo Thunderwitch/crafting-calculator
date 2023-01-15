@@ -45,7 +45,7 @@ $progress-bar-gradiant-end: #EAEAEA;
   color: $text;
   
 
-  @import "./base.scss";
+  @import "./base.css";
 }
 
-@import "./base.scss";
+@import "./base.css";
